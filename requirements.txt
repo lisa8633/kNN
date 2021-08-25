@@ -1,0 +1,8 @@
+jupyter
+pandas
+matplotlib
+numpy
+math
+sklearn
+graphviz
+mlxtend
